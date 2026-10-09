@@ -4,10 +4,10 @@ Projeto desenvolvido para a disciplina de **Garantia da Qualidade de Software / 
 
 ---
 
-## 🎓 Identificação do Aluno
+## 🎓 Identificação do Alunos
 
-- **Nome:** Fernando Almeida de Oliveira Braga
-- **RA:** 326132695
+- **Nomes:** Fernando Almeida de Oliveira Braga , Gabriel Ferreira de Souza , Lucas Henrique Miranda.
+- **RA:** 326132695, 325140970, 325131396
 - **Disciplina:** Garantia da Qualidade de Software / Gestão e Qualidade de Software
 - **Professor:** Daniel Henrique Matos de Paiva
 
